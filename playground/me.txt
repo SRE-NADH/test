@@ -1,6 +1,0 @@
-
-{{#user}
-Name: SREENADH
-Skills: HTML, CSS, JS
-Email: sreenadh669@gmail.com
-{{/user}}
